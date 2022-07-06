@@ -3,18 +3,20 @@ body {
 }
 
 .first-part {
+    margin-top: 0%;
     background-image: url(9ls0_4iri_201221.jpg);
     color: rgba(255, 83, 135, 0.993);
     background-size: cover;
 }
 
 #first-tittle {
-    padding-top: 250px;
+    padding-top: 150px;
 }
 
 .tittle {
     text-align: center;
     padding-top: 80px;
+    font-size: 55px;
 }
 
 #first-button {
