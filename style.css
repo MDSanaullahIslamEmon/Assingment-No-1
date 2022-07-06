@@ -36,6 +36,13 @@ p {
     text-align: center;
 }
 
+input {
+    width: 50%;
+    text-align: center;
+    border: none;
+    outline: 0;
+}
+
 .class {
     text-align: center;
 }
@@ -43,20 +50,52 @@ p {
 .red {
     color: red;
     border: 1px solid red;
-    padding: 5px 5px 5px 5px;
+    padding: 5px 10px;
     background-color: rgb(192, 168, 168);
 }
 
 .amount {
     display: flex;
     margin: 2%;
+    justify-content: center;
 }
 
 .money {
-    margin-left: 2%;
+    margin-left: 5%;
 }
 
-.third-part {
+.parent {
     display: flex;
-    width: auto;
+    justify-content: center;
+
+}
+
+.card {
+    height: 350px;
+    width: 250px;
+    margin-right: 40px;
+    padding: 20px;
+
+}
+
+.plan1 {
+    text-align: justify;
+    margin-left: 5px;
+}
+
+.img {
+    height: 70px;
+    width: 70px;
+}
+
+.element {
+    background-color: rgba(248, 147, 181, 0.23);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20PX;
+    border-radius: 10px;
+}
+
+#family {
+    background-color: rgba(200, 246, 107, 0.398);
 }
