@@ -35,7 +35,7 @@ body {
 .donate {
     text-decoration: none;
     padding: 20px 40px;
-    background: linear-gradient(rgb(250, 114, 205), rgb(0, 140, 255));
+    background: linear-gradient(#dfc91c, #ff5e00);
     border-radius: 10px;
     color: azure;
     font-weight: 700;
@@ -129,7 +129,7 @@ body {
 .issue {
     text-decoration: none;
     padding: 20px 40px;
-    background: linear-gradient(#ed8787, #f4c788);
+    background: linear-gradient(#ff3838, #fc9609);
     border-radius: 10px;
     color: whitesmoke;
     font-weight: 800;
